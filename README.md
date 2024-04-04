@@ -59,7 +59,7 @@ Even after the download of the model, Ollama is relatively slow to startup and a
       CHANNEL=your_target_channel_or_endpoint
       PROJECT=your_project_key
       PROJECT_NAME=your_project_extended_name
-
+```
 4. **Usage**
 
    The project is now ready to be executed with:

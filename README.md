@@ -69,7 +69,7 @@ Even after the download of the model, Ollama is relatively slow to startup and a
 
 ## How It Works
 
-It constructs a request to the JIRA API to fetch issues from a specified project that are marked as "Done" within the last week. Retrieved issues are organized by epic and assignee, providing a structured overview. A detailed message is generated, summarizing the completed tasks, customizable based on the project. The script then sends the generated message to a specified Internal Notifier endpoint, ensuring team members are updated with the latest project achievements.
+It constructs a request to the JIRA API to fetch issues from a specified project that are marked as "Done" within the last week. Retrieved issues are organized by epic and assignee, providing a structured overview. A detailed message is generated, summarizing the completed tasks, customizable based on the project. The script then sends the generated message to a specified endpoint, ensuring team members are updated with the latest project achievements.
 
 Results:
 

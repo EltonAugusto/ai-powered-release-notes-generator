@@ -4,6 +4,10 @@
 
 This Node.js project automates the retrieval and organization of completed issues from a JIRA project. The script is designed to fetch issues marked as "Done" in the past week, organize them by epic and assignee, and then format a comprehensive update message. This message can be customized per project and is intended to be sent to a specified communication channel, facilitating team updates and project management.
 
+![Architecture](https://i.imgur.com/jYRORp9.png "This is a "to-be" architecture model")
+
+
+
 ## Features
 
 - Fetches completed issues from a specified JIRA project.

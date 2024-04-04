@@ -1,4 +1,4 @@
-# Release Notes App
+# AI-powered Release Notes Generator
 
 ## Overview
 

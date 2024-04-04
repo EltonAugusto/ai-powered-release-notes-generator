@@ -50,14 +50,15 @@ Even after the download of the model, Ollama is relatively slow to startup and a
 3. **Configure environment variables**
 
    Create a `.env` file in the project root with the following variables:
-        JIRA_DOMAIN=your_jira_domain
-        EMAIL=your_email_address
-        API_TOKEN=your_api_token
-        API_URL=your_api_url_for_sending_messages
-        AUTH_TOKEN=your_auth_token_for_api
-        CHANNEL=your_target_channel_or_endpoint
-        PROJECT=your_project_key
-        PROJECT_NAME=your_project_extended_name
+```plaintext
+      JIRA_DOMAIN=your_jira_domain
+      EMAIL=your_email_address
+      API_TOKEN=your_api_token
+      API_URL=your_api_url_for_sending_messages
+      AUTH_TOKEN=your_auth_token_for_api
+      CHANNEL=your_target_channel_or_endpoint
+      PROJECT=your_project_key
+      PROJECT_NAME=your_project_extended_name
 
 4. **Usage**
 

@@ -13,7 +13,7 @@ This Node.js project automates the retrieval and organization of completed issue
 - Fetches completed issues from a specified JIRA project.
 - Organizes issues by epic and assignee for improved clarity.
 - Generates a detailed update message, customizable for different projects.
-- Supports sending the generated message to a specified Internal Notifier endpoint, facilitating integration with Slack.
+- Supports sending the generated message to a specified an endpoint, facilitating integration with Slack.
 
 ## Prerequisites
 
